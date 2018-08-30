@@ -1,1 +1,1 @@
-Some Exchange PowerShell Scritps I have used. 
+Some Exchange PowerShell Scripts I have used. 
